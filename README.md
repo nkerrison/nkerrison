@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @nkerrison
-- :milky_way: I’m interested in solar system and galaxy evolution
-- 🌱 I’m currently learning R
+### Hi there, I'm Nicole Kerrison :wave:
+- 🌵 I'm an undergraduate student at the University of Arizona
+- :sparkles: I’m interested in solar system evolution and galaxy evolution
+- :seedling: I’m currently learning R and Git
 - :musical_note: I play the harp in my free time
 
 <!---
