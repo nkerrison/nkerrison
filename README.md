@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkerrison
 - :milky_way: I’m interested in solar system and galaxy evolution
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning R
 - :musical_note: I play the harp in my free time
 
 <!---
